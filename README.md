@@ -1,4 +1,0 @@
-CaveRunning
-===========
-
-Rithu - Sote Project
